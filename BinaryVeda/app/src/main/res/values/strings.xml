@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BinaryVeda</string>
+    <string name="register">Register</string>
+    <string name="me_as_a_collector">me as a collector</string>
+    <string name="track_my_application">track my application</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua_ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
+    <string name="about_us">About Us.</string>
+    <string name="team">Team.</string>
+    <string name="reach_us">Reach Us.</string>
+    <string name="affiliattions">Affiliattions.</string>
+    <string name="disclaimers">Disclaimers.</string>
+    <string name="privacy_policy">Privacy Policy.</string>
+    <string name="content_copyright_reserved">Content Copyright reserved</string>
+    <string name="upload">Upload</string>
+    <string name="edit">Edit</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="followers">Followers</string>
+    <string name="_2_3k">2.3K</string>
+    <string name="_50">50</string>
+    <string name="artwork">Artwork</string>
+    <string name="_21">21</string>
+    <string name="exhibition">Exhibition</string>
+    <string name="john_doe">john.doe</string>
+    <string name="_130">130</string>
+    <string name="_43k">43K</string>
+    <string name="revenue">Revenue</string>
+</resources>
