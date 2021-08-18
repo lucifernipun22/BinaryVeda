@@ -22,3 +22,7 @@ it will redirect to the next screen which name as Profile Name screen this scree
 | | |
 |:---|:--|
 |<img src="https://github.com/nipunjaincode/img/blob/main/WhatsApp%20Image%202021-08-18%20at%2018.43.20%20(1).jpeg" width="300px"/>|<img src="https://github.com/nipunjaincode/img/blob/main/WhatsApp%20Image%202021-08-18%20at%2018.43.20%20(3).jpeg" width="300px">| | | 
+
+- [Task 1](https://github.com/lucifernipun22/BinaryVeda/tree/main/BinaryVeda)
+
+- [Task 2](https://github.com/lucifernipun22/BinaryVeda/blob/main/OkCredit.pdf)
